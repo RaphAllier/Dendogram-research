@@ -8,9 +8,7 @@ It comes from Greek "dendro" meaning tree, and "gramma", meaning analysis.
 ## 1. Historical examples 
 The first examples of dendrograms were the phylogenetic trees (a tree that shows the inferred evolutionnary relationships among various biological species) by systematic specialists. The term "dendrogram" looks to have been used for the first time in the work of Mayr et al in 1953 [1]. 
 
-<img src="img/phylogenetic_tree_example.jpg" style="width:100px;">
-
-![Exemple of phylogenetic tree](/img/phylogenetic_tree_example.jpg)
+<img src="img/phylogenetic_tree_example.jpg">
 
 __Example of Phylogenetic tree [2]__
 
