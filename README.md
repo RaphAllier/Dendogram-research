@@ -8,7 +8,7 @@ It comes from Greek "dendro" meaning tree, and "gramma", meaning analysis.
 ## 1. Historical examples 
 The first examples of dendrograms were the phylogenetic trees (a tree that shows the inferred evolutionnary relationships among various biological species) by systematic specialists. The term "dendrogram" looks to have been used for the first time in the work of Mayr et al in 1953 [1]. 
 
-![Exemple of phylogenetic tree](/images/phylogenetic_tree_example.jpg)
+![Exemple of phylogenetic tree](/img/phylogenetic_tree_example.jpg)
 
 __Example of Phylogenetic tree [2]__
 
@@ -16,7 +16,7 @@ Most of the time Dendrograms are used in biology to describe the evolution of sp
 
 However they are also present in algorithms in cluster analysis. On a set of objects, a dendrogram allows to depict aggregations being made over iterations (the aggregations are made following a distance table that is computed at each iteration). Once all of the instances have been linked through the iterations, the dataset can be cut into clusters where the distance between instances is minimal within a cluster. 
 
-![Example of dendrogram](/images/dendogram_example.png)
+![Example of dendrogram](/img/dendogram_example.png)
 
 __Example of Dendrogram showing aggregations between instances[3]__
 
@@ -24,13 +24,13 @@ __Example of Dendrogram showing aggregations between instances[3]__
 
 The better part of all famous dendrograms are phylogenetic trees, as are the ones below. 
 
-![Phylogenetic tree of domestic dogs and grey wolves](/images/dogs_phylogenetic.jpg)
+![Phylogenetic tree of domestic dogs and grey wolves](/img/dogs_phylogenetic.jpg)
 
 __Phylogenetic tree of domestic dogs and grey wolves[4]__
 
 The previous phylogenetic tree depicts the distance between different dog breeds based on their DNA. 
 
-![Phylogenetic tree of four-legged animals](/images/dendogram_time.png)
+![Phylogenetic tree of four-legged animals](/img/dendogram_time.png)
 
 __Phylogenetic tree of some four-legged animals[5]__
 
@@ -43,13 +43,13 @@ As seen in the previous chart, the dendrogram can also be used to depict the tim
 
 ## 3. Comments 
 
-![Creation of a phylogenetic tree](/images/build_tree.png)
+![Creation of a phylogenetic tree](/img/build_tree.png)
 
 __Creation of a phylogenetic tree[6]__
 
 Usually, phylogenetic tree are created from a dendrogram using simple modifications so they appear more as a chart depicting the evolution of the designated species. 
 
-![Dendrogram on the famous Iris dataset](/images/Iris_dendrogram.png)
+![Dendrogram on the famous Iris dataset](/img/Iris_dendrogram.png)
 
 __Example of clustering on the famous Iris dataset__
 
@@ -78,5 +78,6 @@ http://www.instituteofcaninebiology.org/how-to-read-a-dendrogram.html
 [6] Khanacademy
 https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree
 
-[7] <a href=https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html>  Hierarchical cluster analysis on famous data sets by Tal Galili </a>
+[7] Hierarchical cluster analysis on famous data sets by Tal Galili
+https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html
 
