@@ -8,6 +8,8 @@ It comes from Greek "dendro" meaning tree, and "gramma", meaning analysis.
 ## 1. Historical examples 
 The first examples of dendrograms were the phylogenetic trees (a tree that shows the inferred evolutionnary relationships among various biological species) by systematic specialists. The term "dendrogram" looks to have been used for the first time in the work of Mayr et al in 1953 [1]. 
 
+<img src="img/phylogenetic_tree_example.jpg" style="width:100px;">
+
 ![Exemple of phylogenetic tree](/img/phylogenetic_tree_example.jpg)
 
 __Example of Phylogenetic tree [2]__
@@ -78,6 +80,6 @@ http://www.instituteofcaninebiology.org/how-to-read-a-dendrogram.html
 [6] Khanacademy
 https://www.khanacademy.org/science/biology/her/tree-of-life/a/building-an-evolutionary-tree
 
-[7] Hierarchical cluster analysis on famous data sets by Tal Galili
-https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html
+[7] <a href="https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html"> Hierarchical cluster analysis on famous data sets by Tal Galili </a>
+
 
