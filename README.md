@@ -10,7 +10,6 @@ The first examples of dendrograms were the phylogenetic trees (a tree that shows
 
 <img src="img/phylogenetic_tree_example.jpg">
 
-__Example of Phylogenetic tree [2]__
 
 Most of the time Dendrograms are used in biology to describe the evolution of species. 
 
