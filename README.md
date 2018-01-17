@@ -55,12 +55,35 @@ Usually, phylogenetic tree are created from a dendrogram using simple modificati
 
 __Example of clustering on the famous Iris dataset [7]__
 
-As seen in the previous figure, the type of data used to create a dendrogram is simply instances of a dataset. 
+As seen in the previous figure, the type of data used to create a dendrogram is simply instances of a dataset. In a dendrogram, we'll generally see an axis showing data points and the other axis showing cluster distance (which can represent distnce in km, time, etc...)
+
+<img src="img/dendo_color.png"> 
+
+__Example of a spiral dendogram with smart ordering [8]__
+
+As you can see in the previous figure, dendrograms can be made more visual when the data is ordered (especially in circular dendrograms). 
+
+## 4. Tools for creating Dendograms
+
+Python has a few tools to create simple dendrograms. 
+
+<img src="img/python.png">
+
+__Dendrograms using Plotly library [9]__
+
+<img src="img/scipy.png">
+
+__Dendrograms using Scipy library [10]__
+
+Dendrograms can be created using the Plotly or Scipy libraries in Python. They can also be created from trees using a function in Matlab : 
+
+<img src="img/matlab.png">
+
+__Dendrogram in Matlab [11]__
 
 
 
-
-## 4. Sources
+## 5. Sources
 
 [1] <a href="https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-32833-1_103"> (2008) Dendrogram. In: The Concise Encyclopedia of Statistics. Springer, New York, NY </a>
 
@@ -80,4 +103,11 @@ As seen in the previous figure, the type of data used to create a dendrogram is 
 
 [7] <a href="https://cran.r-project.org/web/packages/dendextend/vignettes/Cluster_Analysis.html"> Hierarchical cluster analysis on famous data sets by Tal Galili </a>
 
+[8] <a href="http://cs.jhu.edu/~razvanm/fs-expedition/2.6.x.html"> Dendogram of relations between linux files</a>
+
+[9] <a href="https://plot.ly/python/dendrogram/"> Dendrograms in Python </a>
+
+[10] <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.dendrogram.html"> Dendrograms using scipy </a>
+
+[11] <a href="https://fr.mathworks.com/help/stats/dendrogram.html?s_tid=gn_loc_drop"> Dendrogram plot in Matlab </a>
 
